@@ -19,6 +19,7 @@ art: dots
 - Chair: Fantech OCA-258
 - Table: Fantech WS311
 - Action Cam: Akaso V50
+- Watch: Amazfit Bip S
 - Speakers: -
 
 ### Live Streaming
@@ -29,7 +30,7 @@ art: dots
 
 ### Gaming
 
-- 
+-
 
 ## Development
 
