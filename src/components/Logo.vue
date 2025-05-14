@@ -1,5 +1,6 @@
 <template>
-  <svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <img src="/avatar.png" title="syofyan-zuhad"></img>
+  <!-- <svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
     <title>Anthony Fu @ antfu.me</title>
     <mask id="mask0_634_3" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="24" y="7" width="50" height="87">
       <path
@@ -14,7 +15,7 @@
         stroke="black" stroke-width="2.5" stroke-linecap="round"
       />
     </g>
-  </svg>
+  </svg> -->
 </template>
 
 <style scoped>

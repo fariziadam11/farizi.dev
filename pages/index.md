@@ -22,7 +22,7 @@ Outside of programming, I enjoy doing photography and traveling. I post [photos 
 
 I usually stay in Purwokerto or Jakarta, Indonesia. If you are around, please reach out and let's have some coffee or work together.
 
-Download my cv [here](/syofyan-zuhad.pdf).
+Download [my cv](/syofyan-zuhad.pdf).
 
 P.S. this website is open-source and available on <a href="//github.com/syofyanzuhad/syofyanzuhad.dev" target="_blank">Github</a>.
 
