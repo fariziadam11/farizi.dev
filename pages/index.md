@@ -14,9 +14,9 @@ Maintaining <a href="//freebio.syofyanzuhad.dev" target="_blank">Freebio</a>
 
 Dreaming up cool ideas and making them come true is where my passion lies. I am enthusiastic about building tools that help myself and others to be more productive and enjoy the process of crafting. You can find my [full projects list here](/projects).
 
-I give [talks](/talks) and write [blog posts](/posts) about open source, coding, etc.
+I give [talks](/talks) and write [blog posts](https://syofyanzuhad.medium.com) about open source, coding, etc.
 I am a passionate Web Developer, specialised in back-end development using Laravel and php. As an artisan user (Laravel magic), I create amazing web applications to make the internet a better place.
-You can talk to me about Laravel
+You can talk to me about Web App Development.
 
 Outside of programming, I enjoy doing photography and traveling. I post [photos on this page](/photos). I also love anime, movies and dramas, I am trying to list my [media consumption](/media). Also, in case you are interested, here are the [hardware/software I use](/use).
 
@@ -32,10 +32,10 @@ Find me on
 
 <p flex="~ gap-2 wrap" class="mt--2!">
   <a href="https://github.com/syofyanzuhad" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
+  <a href="https://t.me/syofyan_zuhad" target="_blank"><span op75 i-ri-telegram-2-line /> Telegram</a>
   <a href="https://www.instagram.com/syofyan_zuhad" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
   <a href="https://x.com/syofyan_zuhad" target="_blank"><span op75 i-ri-twitter-x-fill />Twitter </a>
   <a href="https://www.threads.net/@syofyan_zuhad" target="_blank"><span op75 i-ri-threads-line /> Threads</a>
-  <a href="https://chat.syofyanzuhad.dev" target="_blank"><span op75 i-simple-icons-discord /> Discord Server</a>
   <a href="https://www.youtube.com/@syofyanzuhad" target="_blank"><span op75 i-simple-icons-youtube /> YouTube</a>
 </p>
 

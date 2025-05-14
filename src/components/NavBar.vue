@@ -52,7 +52,7 @@ const { y: scroll } = useWindowScroll()
           <div i-ri-camera-3-line />
         </RouterLink>
         <RouterLink to="/uses" title="uses">
-          <div i-ri-tools />
+          <div i-ri-tools-line />
         </RouterLink>
         <!-- <RouterLink to="/chat" title="Let's Chat">
           <div i-ri-chat-1-line />
