@@ -1,5 +1,5 @@
 ---
-title: Bookmarks - Anthony Fu
+title: Bookmarks - Syofyan Zuhad
 display: Bookmarks
 subtitle: Some of my favorite websites/tools with excellent design and UX that I highly recommend
 ---

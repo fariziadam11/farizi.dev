@@ -1,5 +1,5 @@
 ---
-title: Media Consumption - Anthony Fu
+title: Media Consumption - Syofyan Zuhad
 display: Media Consumption
 description: Anthony's Media Consumption
 ---

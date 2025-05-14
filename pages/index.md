@@ -9,8 +9,8 @@ Hey! I'm Syofyan Zuhad, a fanatical open sourceror and web artisan.
 
 <!-- Working at {NuxtLabs}<br> -->
 <!-- Creator of {Freebio}<br> -->
-Contributing on <a href="//github.com/laravel">Laravel</a> <br>
-Maintaining <a href="//freebio.syofyanzuhad.dev">Freebio</a>
+Contributing on <a href="//github.com/laravel" target="_blank">Laravel</a> <br>
+Maintaining <a href="//freebio.syofyanzuhad.dev" target="_blank">Freebio</a>
 
 Dreaming up cool ideas and making them come true is where my passion lies. I am enthusiastic about building tools that help myself and others to be more productive and enjoy the process of crafting. You can find my [full projects list here](/projects).
 
@@ -20,9 +20,9 @@ You can talk to me about Laravel
 
 Outside of programming, I enjoy doing photography and traveling. I post [photos on this page](/photos). I also love anime, movies and dramas, I am trying to list my [media consumption](/media). Also, in case you are interested, here are the [hardware/software I use](/use).
 
-I often stays either on Purwokerto or Jakarta, Indonesia. If you are around, please reach out and let's have some coffee or work together.
+I usually stay in Purwokerto or Jakarta, Indonesia. If you are around, please reach out and let's have some coffee or work together.
 
-P.S. this website is open-source and available on <a href="//github.com/syofyanzuhad/syofyanzuhad.dev">Github</a>.
+P.S. this website is open-source and available on <a href="//github.com/syofyanzuhad/syofyanzuhad.dev" target="_blank">Github</a>.
 
 <div flex-auto />
 
@@ -34,12 +34,12 @@ Find me on
   <a href="https://github.com/syofyanzuhad" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
   <a href="https://www.instagram.com/syofyan_zuhad" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
   <a href="https://x.com/syofyan_zuhad" target="_blank"><span op75 i-ri-twitter-x-fill />Twitter </a>
-  <a href="https://chat.syofyanzuhad.dev" target="_blank"><span op75 i-simple-icons-discord /> Discord Server</a>
   <a href="https://www.threads.net/@syofyan_zuhad" target="_blank"><span op75 i-ri-threads-line /> Threads</a>
+  <a href="https://chat.syofyanzuhad.dev" target="_blank"><span op75 i-simple-icons-discord /> Discord Server</a>
   <a href="https://www.youtube.com/@syofyanzuhad" target="_blank"><span op75 i-simple-icons-youtube /> YouTube</a>
 </p>
 
-Or mail me at <span font-mono>mail<span i-carbon-at/>syofyanzuhad.dev</span>
+Or mail me at <a href="mailto:mail@syofyanzuhad.dev"><span font-mono>mail<span i-carbon-at/>syofyanzuhad.dev</span><a/>
 
 ---
 
