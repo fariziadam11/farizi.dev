@@ -39,7 +39,7 @@ Find me on
   <a href="https://www.youtube.com/@syofyanzuhad" target="_blank"><span op75 i-simple-icons-youtube /> YouTube</a>
 </p>
 
-Or mail me at <a href="mailto:mail@syofyanzuhad.dev"><span font-mono>mail<span i-carbon-at/>syofyanzuhad.dev</span><a/>
+Or mail me at <a href="mailto:mail@syofyanzuhad.dev"><span font-mono>mail<span i-carbon-at/>syofyanzuhad.dev</span></a>
 
 ---
 
