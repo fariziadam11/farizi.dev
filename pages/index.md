@@ -8,7 +8,6 @@ art: random
 Hey! I'm Syofyan Zuhad, a fanatical open sourceror and web artisan.
 
 Currently working as a <a href="//linkedin.com/in/syofyan-zuhad" target="_blank">Freelancer</a><br>
-<!-- Creator of {Freebio}<br> -->
 Contributing on <a href="//github.com/laravel" target="_blank">Laravel</a> <br>
 Maintaining <a href="//freebio.syofyanzuhad.dev" target="_blank">Freebio</a>
 
