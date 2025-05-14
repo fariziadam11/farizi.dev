@@ -8,27 +8,38 @@ art: dots
 
 [[toc]]
 
+## Books
+
+- Hujan - Tere Liye
+- How To Master Your Habits - Felix Y. Siauw
+- Cinta dan Kehilangan - SenyumSyukur
+- Jika Nanti Kita Jatuh Cinta Lagi - Alfialghazi
+- Tuhan Selamatkan Aku - Rizki Athaillah
+- Atomic Habits - James Clear
+- Baitul Maqdis For Dummies - Felix Y. Siauw
+
 ## Hardware
 
-- Camera: RICOH GR IIIx / ~~Nikon Z6 II~~ / ~~Nikon D750~~ / ~~Canon 600D~~
-- Laptop: MacBook Pro 14' M2 8GB / ~~Thinkpad x230~~ / ~~Dell XPS 15~~
-- Mouse: Logitech MX Ergo S
-- Keyboard: HHKB Studio + XPPen Wireless Shortcut Remote
-- Monitor: Studio Display / ~~LG 27UL850-W~~
-- Chair: Herman Miller Aeron / ~~Herman Miller Sayl~~
-- Table: FlexiSpot E7H
-- Speakers: Sonos Beam / HomePod Mini x2 / Sonos Roam 2
+- Camera: ~~Nikon~~
+- Laptop: MacBook Pro 14' M2 8GB / ~~Thinkpad x230~~ / ~~Asus X553M~~
+- Phone: iPhone 13 128 GB / Redmi Note 10 5G (8 GB RAM, 128 GB Storage)
+- Mouse: ~~Keyboard Mouse Combo ROBOT KM3000~~
+- Keyboard: ~~Keyboard Mouse Combo ROBOT KM3000~~
+- Monitor: Lenovo L24m-4A
+- Chair: Fantech OCA-258
+- Table: Fantech WS311
+- Action Cam: Akaso V50
+- Speakers: -
 
 ### Live Streaming
 
-- Webcam: Studio Display Built-in / DJI Pocket 3
-- Microphone: DJI Mic 2 / ~~Blue Yeti Nano~~
-- Light: Godox LR150 / ~~Elgato Key Light Air~~
+- Webcam: -
+- Microphone: -
+- Light: Godox -
 
 ### Gaming
 
-- Steamdeck
-- PS5 + PSVR2
+- 
 
 ## Development
 
