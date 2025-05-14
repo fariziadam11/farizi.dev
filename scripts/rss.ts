@@ -6,10 +6,10 @@ import fs from 'fs-extra'
 import matter from 'gray-matter'
 import MarkdownIt from 'markdown-it'
 
-const DOMAIN = 'https://antfu.me'
+const DOMAIN = 'https://syofyanzuhad.dev'
 const AUTHOR = {
-  name: 'Anthony Fu',
-  email: 'hi@antfu.me',
+  name: 'Syofyan Zuhad',
+  email: 'mail@syofyanzuhad.dev',
   link: DOMAIN,
 }
 const markdown = MarkdownIt({
@@ -26,11 +26,11 @@ async function buildBlogRSS() {
   const files = await fg('pages/posts/*.md')
 
   const options = {
-    title: 'Anthony Fu',
-    description: 'Anthony Fu\' Blog',
+    title: 'Syofyan Zuhad',
+    description: 'Syofyan Zuhad\' Blog',
     id: 'https://syofyanzuhad.dev/',
     link: 'https://syofyanzuhad.dev/',
-    copyright: 'CC BY-NC-SA 4.0 2021 © Anthony Fu',
+    copyright: 'CC BY-NC-SA 4.0 2021 © Syofyan Zuhad',
     feedLinks: {
       json: 'https://syofyanzuhad.dev/feed.json',
       atom: 'https://syofyanzuhad.dev/feed.atom',
