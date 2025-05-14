@@ -1,4 +1,5 @@
-**[antfu.me](https://antfu.me)**
+**[syofyanzuhad.dev](https://syofyanzuhad.dev)**
+**forked from: [antfu.me](https://antfu.me)**
 
 my personal website
 
