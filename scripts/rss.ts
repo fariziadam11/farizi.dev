@@ -28,13 +28,13 @@ async function buildBlogRSS() {
   const options = {
     title: 'Anthony Fu',
     description: 'Anthony Fu\' Blog',
-    id: 'https://antfu.me/',
-    link: 'https://antfu.me/',
+    id: 'https://syofyanzuhad.dev/',
+    link: 'https://syofyanzuhad.dev/',
     copyright: 'CC BY-NC-SA 4.0 2021 © Anthony Fu',
     feedLinks: {
-      json: 'https://antfu.me/feed.json',
-      atom: 'https://antfu.me/feed.atom',
-      rss: 'https://antfu.me/feed.xml',
+      json: 'https://syofyanzuhad.dev/feed.json',
+      atom: 'https://syofyanzuhad.dev/feed.atom',
+      rss: 'https://syofyanzuhad.dev/feed.xml',
     },
   }
   const posts: any[] = (
@@ -71,8 +71,8 @@ async function buildBlogRSS() {
 
 async function writeFeed(name: string, options: FeedOptions, items: Item[]) {
   options.author = AUTHOR
-  options.image = 'https://antfu.me/avatar.png'
-  options.favicon = 'https://antfu.me/logo.png'
+  options.image = 'https://syofyanzuhad.dev/avatar.png'
+  options.favicon = 'https://syofyanzuhad.dev/logo.png'
 
   const feed = new Feed(options)
 
