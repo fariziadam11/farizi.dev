@@ -11,7 +11,7 @@ art: dots
 ## Hardware
 
 - Camera: RICOH GR IIIx / ~~Nikon Z6 II~~ / ~~Nikon D750~~ / ~~Canon 600D~~
-- Laptop: MacBook Pro 16' M1 Max 64GB / ~~MacBook Air Intel~~ / ~~Dell XPS 15~~
+- Laptop: MacBook Pro 14' M2 8GB / ~~Thinkpad x230~~ / ~~Dell XPS 15~~
 - Mouse: Logitech MX Ergo S
 - Keyboard: HHKB Studio + XPPen Wireless Shortcut Remote
 - Monitor: Studio Display / ~~LG 27UL850-W~~
