@@ -29,7 +29,7 @@ You can use the following information to present me:
   <div><a href="https://syofyanzuhad.dev/avatar.png" target="_blank">https://syofyanzuhad.dev/avatar.png</a></div>
 
   <div text-right pr2 op50 font-bold>Introduction</div>
-  <TextCopy>I have been a web developer for 5 years. The technologies I work with are HTML, CSS, JavaScript and PHP with a focus on the frameworks Laravel and TailwindCSS for styling. I use code not only to do my day-to-day job, but also to solve everyday problems I come across.</TextCopy>
+  <TextCopy>I have been working as a web developer for 5 years. The technologies I work with are HTML, CSS, JavaScript and PHP with a focus on the frameworks Laravel and TailwindCSS for styling. I use code not only for my day-to-day work, but also to solve everyday problems I come across.</TextCopy>
 
   <div text-right pr2 op50 font-bold>Location (Jakarta, Indonesia)</div>
   <TextCopy>Jakarta, Indonesia</TextCopy>
@@ -45,6 +45,9 @@ You can use the following information to present me:
 
   <div text-right pr2 op50 font-bold>GitHub</div>
   <TextCopy><a href="https://github.com/syofyanzuhad" target="_blank">@syofyanzuhad</a></TextCopy>
+
+  <div text-right pr2 op50 font-bold>Instagram</div>
+  <TextCopy><a href="https://instagram.com/syofyan_zuhad" target="_blank">@syofyan_zuhad</a></TextCopy>
 
   <div text-right pr2 op50 font-bold>Twitter</div>
   <TextCopy><a href="https://twitter.com/syofyan_zuhad" target="_blank">@syofyan_zuhad</a></TextCopy>
