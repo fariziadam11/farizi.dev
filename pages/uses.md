@@ -8,16 +8,6 @@ art: dots
 
 [[toc]]
 
-## Books
-
-- Hujan - Tere Liye
-- How To Master Your Habits - Felix Y. Siauw
-- Cinta dan Kehilangan - SenyumSyukur
-- Jika Nanti Kita Jatuh Cinta Lagi - Alfialghazi
-- Tuhan Selamatkan Aku - Rizki Athaillah
-- Atomic Habits - James Clear
-- Baitul Maqdis For Dummies - Felix Y. Siauw
-
 ## Hardware
 
 - Camera: ~~Nikon~~
