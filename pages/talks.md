@@ -17,20 +17,20 @@ art: plum
 
 ### Talk Schedule 2025
 
-| Date                          | Conference                                         | Location  | Topic                                  | Lang    |
+<!-- | Date                          | Conference                                         | Location  | Topic                                  | Lang    |
 | ----------------------------- | -------------------------------------------------- | --------- | -------------------------------------- | ------- |
 | <TalkDate date="2025-05-23"/> | [**TSKaigi**](https://2025.tskaigi.org/)           | Tokyo     | The New ESLint Config with Type Safety | English |
 | <TalkDate date="2025-07-12"/> | [**VueConf China**](https://vueconf.cn/)           | Shenzhen  | Sneak Peek of Vite DevTools            | 中文    |
 | <TalkDate date="2025-09-18"/> | [**SquiggleConf**](https://2025.squiggleconf.com/) | Boston    | TBD                                    | English |
 | <TalkDate date="2025-10-09"/> | [**ViteConf**](https://viteconf.amsterdam/)        | Amsterdam | Vite DevTools                          | English |
-| <TalkDate date="2025-10-25"/> | [**VueFes**](https://vuefes.jp/2025/)              | Tokyo     | Vite DevTools                          | 日本語  |
+| <TalkDate date="2025-10-25"/> | [**VueFes**](https://vuefes.jp/2025/)              | Tokyo     | Vite DevTools                          | 日本語  | -->
 
 <div pt-5 />
 
 <details>
 <summary><span text-lg>Talk Schedule 2024</span></summary>
 
-| Date                          | Conference                                                                                           | Location             | Topic                                                               |
+<!-- | Date                          | Conference                                                                                           | Location             | Topic                                                               |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------- |
 | <TalkDate date="2024-02-27"/> | [**The Vue-niverse meetup**](https://www.meetup.com/nl-NL/coven-of-wisdom-utrecht/events/298711260/) | Utrecht, Netherlands | The Progressive Path                                                |
 | <TalkDate date="2024-02-29"/> | [**Vue Amsterdam**](https://vuejs.amsterdam/)                                                        | Amsterdam            | [The Progressive Path](/posts/roads-to-oss-progressive-vueams-2024) |
@@ -47,7 +47,7 @@ art: plum
 | <TalkDate date="2024-11-12"/> | [**Nuxt Nation**](https://nuxtnation.com/)                                                           | Online               | Journey to Nuxt Icon                                                |
 | <TalkDate date="2024-12-07"/> | [**FEDAY**](https://fequan.com/2024/)                                                                | Xiamen               | ESLint One for All Made Easy                                        |
 | <TalkDate date="2024-12-13"/> | [**React Day Berlin**](https://reactday.berlin/)                                                     | Berlin (Remote)      | ESLint One for All Made Easy                                        |
-| <TalkDate date="2024-12-27"/> | [**WebConf Taiwan**](https://webconf.tw/)                                                            | Taipei               | ESLint One for All Made Easy                                        |
+| <TalkDate date="2024-12-27"/> | [**WebConf Taiwan**](https://webconf.tw/)                                                            | Taipei               | ESLint One for All Made Easy                                        | -->
 
 </details>
 
