@@ -1,7 +1,7 @@
 ---
 title: Let's Chat - Syofyan Zuhad
 display: Let's Chat!
-image: https://antfu.me/og-chat.png
+image: https://syofyanzuhad.dev/og.png
 art: dots
 ---
 

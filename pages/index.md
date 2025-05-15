@@ -1,7 +1,7 @@
 ---
 title: Syofyan Zuhad
 description: Syofyan Zuhad's Portfolio
-image: https://antfu.me/og.png
+image: https://syofyanzuhad.dev/og.png
 art: random
 ---
 
