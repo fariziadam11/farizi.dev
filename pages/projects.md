@@ -17,7 +17,7 @@ projects:
 
   Part Time:
     - name: '80&co'
-      link: 'https://github.com/80&co'
+      link: 'https://github.com/80andCo'
       desc: 'Freelance web developer'
       icon: 'i-ri-code-box-line'
 
