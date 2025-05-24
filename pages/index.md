@@ -11,13 +11,13 @@ Currently working as a <a href="//linkedin.com/in/syofyan-zuhad" target="_blank"
 Contributing on <a href="//github.com/laravel" target="_blank">Laravel</a> <br>
 Maintaining <a href="//freebio.syofyanzuhad.dev" target="_blank">Freebio</a>
 
-Dreaming up cool ideas and making them come true is where my passion lies. I am enthusiastic about building tools that help myself and others to be more productive and enjoy the process of crafting. You can find my [full projects list here](/projects).
+Dreaming up cool ideas and making them come true is where my passion lies. I am enthusiastic about building tools that help me and others to be more productive and enjoy the process of crafting. You can find my [full projects list here](/projects).
 
 I give [talks](/giving-talks) and write <a href="//syofyanzuhad.medium.com" target="_blank">blog posts</a> about open source, coding, etc.
 I am a passionate Web Developer, specialised in back-end development using Laravel and php. As an artisan user (Laravel magic), I create amazing web applications to make the internet a better place.
 You can talk to me about Web App Development.
 
-Outside of programming, I enjoy doing photography and traveling. I post [photos on this page](/photos) and [my instagram](//instagram.com/randomsh_ts). I also love anime, movies and dramas, I am trying to list my [media consumption](/media). Also, in case you are interested, here are the [hardware/software I use](/uses).
+Outside of programming, I enjoy photography and traveling. I post [photos on this page](/photos) and <a href="//instagram.com/randomsh_ts" target="_blank">my Instagram</a>. I also love anime, movies, and dramas, I am trying to list my [media consumption](/media). Also, in case you are interested, here are the [hardware/software I use](/uses).
 
 I usually stay in Purwokerto or Jakarta, Indonesia. If you are around, please reach out and let's have some coffee or work together.
 
