@@ -1,4 +1,4 @@
-**[syofyanzuhad.dev](https://syofyanzuhad.dev)**
+**[fariziadamdev.netlify.app](https://fariziadamdev.netlify.app)**
 **forked from: [antfu.me](https://antfu.me)**
 
 my personal website

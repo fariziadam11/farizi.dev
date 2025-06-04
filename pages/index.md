@@ -12,17 +12,17 @@ Contributing on <a href="https://github.com/fariziadam11/SENNA-Company" target="
 
 Dreaming up cool ideas and making them come true is where my passion lies. I am enthusiastic about building tools that help me and others to be more productive and enjoy the process of crafting. You can find my [full projects list here](/projects).
 
-I give [talks](/giving-talks) and write <a href="//fariziadam.medium.com" target="_blank">blog posts</a> about open source, coding, etc.
+I give [talks](/giving-talks) and write <a href="https://medium.com/@fariziadam508" target="_blank">blog posts</a> about open source, coding, etc.
 I am a passionate Web Developer, specialised in back-end development using Laravel and php. As an artisan user (Laravel magic), I create amazing web applications to make the internet a better place.
 You can talk to me about Web App Development.
 
-Outside of programming, I enjoy photography and traveling. I post [photos on this page](/photos) and <a href="//instagram.com/randomsh_ts" target="_blank">my Instagram</a>. I also love anime, movies, and dramas, I am trying to list my [media consumption](/media). Also, in case you are interested, here are the [hardware/software I use](/uses).
+Outside of programming, I also love anime, movies, and dramas, I am trying to list my [media consumption](/media). Also, in case you are interested, here are the [hardware/software I use](/uses).
 
 I usually stay in Purwokerto or Jakarta, Indonesia. If you are around, please reach out and let's have some coffee or work together.
 
-You may look <a href="/fariziadam.pdf" target="_blank">my cv</a>.
+You may look <a href="/CV Farizi Adam.pdf" target="_blank">my cv</a>.
 
-P.S. this website is open-source and available on <a href="//github.com/fariziadam11/fariziadam.dev" target="_blank">Github</a>.
+P.S. this website is open-source and available on <a href="//github.com/fariziadam11/farizi.dev" target="_blank">Github</a>.
 
 <div flex-auto />
 
@@ -32,10 +32,10 @@ Find me on
 
 <p flex="~ gap-2 wrap" class="mt--2!">
   <a href="https://github.com/fariziadam11" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
-  <a href="https://t.me/fariziadam11" target="_blank"><span op75 i-ri-telegram-2-line /> Telegram</a>
-  <a href="https://www.instagram.com/fariziadam11" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
-  <a href="https://x.com/fariziadam11" target="_blank"><span op75 i-ri-twitter-x-fill />Twitter </a>
-  <a href="https://linkedin.com/in/fariziadam11" target="_blank"><span op75 i-ri-linkedin-box-line /> Linkedin</a>
+  <a href="https://t.me/adamfarizii" target="_blank"><span op75 i-ri-telegram-2-line /> Telegram</a>
+  <a href="https://www.instagram.com/friziadm" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
+  <a href="https://x.com/fariziadam508" target="_blank"><span op75 i-ri-twitter-x-fill />Twitter </a>
+  <a href="https://linkedin.com/in/fariziadam" target="_blank"><span op75 i-ri-linkedin-box-line /> Linkedin</a>
   <a href="https://www.youtube.com/@fariziadam" target="_blank"><span op75 i-simple-icons-youtube /> YouTube</a>
 </p>
 

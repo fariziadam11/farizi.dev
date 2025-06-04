@@ -60,7 +60,7 @@ const { y: scroll } = useWindowScroll()
         <!-- <a href="https://bsky.app/profile/syofyanzuhad.me" target="_blank" title="Bluesky" class="lt-md:hidden">
           <div i-ri-bluesky-line />
         </a> -->
-        <a href="https://github.com/syofyanzuhad" target="_blank" title="GitHub" class="lt-md:hidden">
+        <a href="https://github.com/fariziadam11" target="_blank" title="GitHub" class="lt-md:hidden">
           <div i-uil-github-alt />
         </a>
         <a href="/feed.xml" target="_blank" title="RSS" class="lt-md:hidden">
