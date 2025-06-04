@@ -1,7 +1,7 @@
 ---
-title: 和 Syofyan Zuhad 聊聊天！
+title: 和 Farizi Adam 聊聊天！
 display: 聊聊天！
-image: https://antfu.me/og-chat.png
+image: https://fariziadamdev.netlify.app/ong.png
 ---
 
 [English](/chat)

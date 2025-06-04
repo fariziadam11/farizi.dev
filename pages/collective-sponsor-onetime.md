@@ -20,7 +20,7 @@ const month = computed(() => monthes[+route.query.month - 1])
 {{route.query.name}}!
 </h1>
 
-This is {@antfu|Syofyan Zuhad}
+This is {@antfu|Farizi Adam}
 
 I'd like to represent our ecosystem to say **THANK YOU** for your open source work!
 

@@ -1,15 +1,14 @@
 ---
 title: Farizi Adam
 description: Farizi Adam's Portfolio
-image: og.png
+image: https://fariziadamdev.netlify.app/ong.png
 art: random
 ---
 
 Hey! I'm Farizi Adam, a fanatical open sourceror and web artisan.
 
-Currently working as a <a href="//linkedin.com/in/fariziadam11" target="_blank">Freelancer</a><br>
-Contributing on <a href="//github.com/laravel" target="_blank">Laravel</a> <br>
-Maintaining <a href="//freebio.fariziadam.dev" target="_blank">Freebio</a>
+Currently working as a <a href="//linkedin.com/in/fariziadam" target="_blank">Freelancer</a><br>
+Contributing on <a href="https://github.com/fariziadam11/SENNA-Company" target="_blank">SENNA Company</a> <br>
 
 Dreaming up cool ideas and making them come true is where my passion lies. I am enthusiastic about building tools that help me and others to be more productive and enjoy the process of crafting. You can find my [full projects list here](/projects).
 
