@@ -1,19 +1,19 @@
 ---
-title: Syofyan Zuhad
-description: Syofyan Zuhad's Portfolio
-image: https://syofyanzuhad.dev/og.png
+title: Farizi Adam
+description: Farizi Adam's Portfolio
+image: og.png
 art: random
 ---
 
-Hey! I'm Syofyan Zuhad, a fanatical open sourceror and web artisan.
+Hey! I'm Farizi Adam, a fanatical open sourceror and web artisan.
 
-Currently working as a <a href="//linkedin.com/in/syofyan-zuhad" target="_blank">Freelancer</a><br>
+Currently working as a <a href="//linkedin.com/in/fariziadam11" target="_blank">Freelancer</a><br>
 Contributing on <a href="//github.com/laravel" target="_blank">Laravel</a> <br>
-Maintaining <a href="//freebio.syofyanzuhad.dev" target="_blank">Freebio</a>
+Maintaining <a href="//freebio.fariziadam.dev" target="_blank">Freebio</a>
 
 Dreaming up cool ideas and making them come true is where my passion lies. I am enthusiastic about building tools that help me and others to be more productive and enjoy the process of crafting. You can find my [full projects list here](/projects).
 
-I give [talks](/giving-talks) and write <a href="//syofyanzuhad.medium.com" target="_blank">blog posts</a> about open source, coding, etc.
+I give [talks](/giving-talks) and write <a href="//fariziadam.medium.com" target="_blank">blog posts</a> about open source, coding, etc.
 I am a passionate Web Developer, specialised in back-end development using Laravel and php. As an artisan user (Laravel magic), I create amazing web applications to make the internet a better place.
 You can talk to me about Web App Development.
 
@@ -21,9 +21,9 @@ Outside of programming, I enjoy photography and traveling. I post [photos on thi
 
 I usually stay in Purwokerto or Jakarta, Indonesia. If you are around, please reach out and let's have some coffee or work together.
 
-You may look <a href="/syofyan-zuhad.pdf" target="_blank">my cv</a>.
+You may look <a href="/fariziadam.pdf" target="_blank">my cv</a>.
 
-P.S. this website is open-source and available on <a href="//github.com/syofyanzuhad/syofyanzuhad.dev" target="_blank">Github</a>.
+P.S. this website is open-source and available on <a href="//github.com/fariziadam11/fariziadam.dev" target="_blank">Github</a>.
 
 <div flex-auto />
 
@@ -32,15 +32,15 @@ P.S. this website is open-source and available on <a href="//github.com/syofyanz
 Find me on
 
 <p flex="~ gap-2 wrap" class="mt--2!">
-  <a href="https://github.com/syofyanzuhad" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
-  <a href="https://t.me/syofyan_zuhad" target="_blank"><span op75 i-ri-telegram-2-line /> Telegram</a>
-  <a href="https://www.instagram.com/syofyan_zuhad" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
-  <a href="https://x.com/syofyan_zuhad" target="_blank"><span op75 i-ri-twitter-x-fill />Twitter </a>
-  <a href="https://linkedin.com/in/syofyan-zuhad" target="_blank"><span op75 i-ri-linkedin-box-line /> Linkedin</a>
-  <a href="https://www.youtube.com/@syofyanzuhad" target="_blank"><span op75 i-simple-icons-youtube /> YouTube</a>
+  <a href="https://github.com/fariziadam11" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
+  <a href="https://t.me/fariziadam11" target="_blank"><span op75 i-ri-telegram-2-line /> Telegram</a>
+  <a href="https://www.instagram.com/fariziadam11" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
+  <a href="https://x.com/fariziadam11" target="_blank"><span op75 i-ri-twitter-x-fill />Twitter </a>
+  <a href="https://linkedin.com/in/fariziadam11" target="_blank"><span op75 i-ri-linkedin-box-line /> Linkedin</a>
+  <a href="https://www.youtube.com/@fariziadam" target="_blank"><span op75 i-simple-icons-youtube /> YouTube</a>
 </p>
 
-Or mail me at <a href="mailto:mail@syofyanzuhad.dev"><span font-mono>mail<span i-carbon-at/>syofyanzuhad.dev</span></a>
+Or mail me at <a href="mailto:fariziadam508@gmail.com"><span font-mono>fariziadam508<span i-carbon-at/>gmail.com</span></a>
 
 ---
 

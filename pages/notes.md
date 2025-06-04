@@ -1,5 +1,5 @@
 ---
-title: Notes - Syofyan Zuhad
+title: Notes - Farizi Adam
 art: plum
 display: ''
 ---

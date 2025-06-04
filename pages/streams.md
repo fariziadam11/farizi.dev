@@ -1,5 +1,5 @@
 ---
-title: Streams - Syofyan Zuhad
+title: Streams - Farizi Adam
 display: ''
 art: plum
 items:
@@ -15,7 +15,7 @@ items:
 <div slide-enter>
 
 <div i-ri:vidicon-2-line mr2 />
-<span op50>Live streaming at <a href="https://www.youtube.com/@syofyanzuhad" target="_blank">YouTube</a></span>
+<span op50>Live streaming at <a href="https://www.youtube.com/@fariziadam" target="_blank">YouTube</a></span>
 
 </div>
 

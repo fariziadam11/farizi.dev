@@ -1,6 +1,6 @@
 ---
-title: Photos - Syofyan Zuhad
-description: Photos by Syofyan Zuhad
+title: Photos - Farizi Adam
+description: Photos by Farizi Adam
 display: ''
 ---
 

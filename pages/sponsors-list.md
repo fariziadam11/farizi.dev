@@ -1,8 +1,8 @@
 ---
-title: Sponsors - Syofyan Zuhad
+title: Sponsors - Farizi Adam
 display: Sponsors
 subtitle: Great thanks for all the Sponsors!
-description: Sponsors of Syofyan Zuhad
+description: Sponsors of Farizi Adam
 ---
 
 <!-- @layout-full-width -->

@@ -6,10 +6,10 @@ import fs from 'fs-extra'
 import matter from 'gray-matter'
 import MarkdownIt from 'markdown-it'
 
-const DOMAIN = 'https://syofyanzuhad.dev'
+const DOMAIN = 'https://fariziadam.dev'
 const AUTHOR = {
-  name: 'Syofyan Zuhad',
-  email: 'mail@syofyanzuhad.dev',
+  name: 'Farizi Adam',
+  email: 'fariziadam508@gmail.com',
   link: DOMAIN,
 }
 const markdown = MarkdownIt({
@@ -26,15 +26,15 @@ async function buildBlogRSS() {
   const files = await fg('pages/posts/*.md')
 
   const options = {
-    title: 'Syofyan Zuhad',
-    description: 'Syofyan Zuhad\' Blog',
-    id: 'https://syofyanzuhad.dev/',
-    link: 'https://syofyanzuhad.dev/',
-    copyright: 'CC BY-NC-SA 4.0 2021 © Syofyan Zuhad',
+    title: 'Farizi Adam',
+    description: 'Farizi Adam\' Blog',
+    id: 'https://fariziadam.dev/',
+    link: 'https://fariziadam.dev/',
+    copyright: 'CC BY-NC-SA 4.0 2021 © Farizi Adam',
     feedLinks: {
-      json: 'https://syofyanzuhad.dev/feed.json',
-      atom: 'https://syofyanzuhad.dev/feed.atom',
-      rss: 'https://syofyanzuhad.dev/feed.xml',
+      json: 'https://fariziadam.dev/feed.json',
+      atom: 'https://fariziadam.dev/feed.atom',
+      rss: 'https://fariziadam.dev/feed.xml',
     },
   }
   const posts: any[] = (
@@ -71,8 +71,8 @@ async function buildBlogRSS() {
 
 async function writeFeed(name: string, options: FeedOptions, items: Item[]) {
   options.author = AUTHOR
-  options.image = 'https://syofyanzuhad.dev/avatar.png'
-  options.favicon = 'https://syofyanzuhad.dev/logo.png'
+  options.image = 'https://fariziadam.dev/avatar.png'
+  options.favicon = 'https://fariziadam.dev/logo.png'
 
   const feed = new Feed(options)
 

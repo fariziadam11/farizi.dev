@@ -1,5 +1,5 @@
 ---
-title: Use - Syofyan Zuhad
+title: Use - Farizi Adam
 display: Use
 subtitle: Things I am using
 description: Things I am using

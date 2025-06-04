@@ -1,5 +1,5 @@
 ---
-title: Projects - Syofyan Zuhad
+title: Projects - Farizi Adam
 display: Projects
 description: List of projects that I am proud of
 wrapperClass: 'text-center'
@@ -11,7 +11,7 @@ projects:
       desc: 'Core developer and maintainer'
       icon: 'i-ri-tools-line'
     - name: 'BPIP'
-      link: 'https://github.com/syofyanzuhad'
+      link: 'https://github.com/fariziadam11'
       desc: 'Core developer and maintainer'
       icon: 'i-ri-tools-line'
 
@@ -23,11 +23,11 @@ projects:
 
   Hobby:
     - name: 'Freebio'
-      link: 'https://github.com/syofyanzuhad/freebio.dev'
+      link: 'https://github.com/fariziadam11/freebio.dev'
       desc: 'Free bio link for developers'
       icon: 'i-ri-code-box-line'
     - name: 'Libur Hari Ini'
-      link: 'https://github.com/syofyanzuhad/libur-hari-ini'
+      link: 'https://github.com/fariziadam11/libur-hari-ini'
       desc: 'Indonesian holiday checker'
       icon: 'i-ri-code-box-line'
 

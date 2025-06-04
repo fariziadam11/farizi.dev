@@ -1,5 +1,5 @@
 ---
-title: Blog - Syofyan Zuhad
+title: Blog - Farizi Adam
 display: ''
 art: plum
 ---

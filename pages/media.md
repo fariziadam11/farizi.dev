@@ -1,7 +1,7 @@
 ---
-title: Media Consumption - Syofyan Zuhad
+title: Media Consumption - Farizi Adam
 display: Media Consumption
-description: Syofyan's Media Consumption
+description: Farizi's Media Consumption
 ---
 
 One's life span is around 29,000 days, or 696,000 hours.

@@ -1,5 +1,5 @@
 ---
-title: Talks - Syofyan Zuhad
+title: Talks - Farizi Adam
 display: ''
 art: plum
 ---
