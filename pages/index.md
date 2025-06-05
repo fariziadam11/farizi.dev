@@ -18,7 +18,7 @@ You can talk to me about Web App Development.
 
 Outside of programming, I also love anime, movies, and dramas, I am trying to list my [media consumption](/media). Also, in case you are interested, here are the [hardware/software I use](/uses).
 
-I usually stay in Purwokerto or Jakarta, Indonesia. If you are around, please reach out and let's have some coffee or work together.
+I usually stay in Jakarta, Indonesia. If you are around, please reach out and let's have some coffee or work together.
 
 You may look <a href="/CV Farizi Adam.pdf" target="_blank">my cv</a>.
 

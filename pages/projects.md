@@ -6,18 +6,18 @@ wrapperClass: 'text-center'
 art: dots
 projects:
   Current Focus:
-    - name: 'Paskibraka'
-      link: 'https://paskibraka.bpip.go.id'
+    - name: 'Management Product'
+      link: 'https://github.com/fariziadam11/Management-Product'
       desc: 'Core developer and maintainer'
       icon: 'i-ri-tools-line'
-    - name: 'BPIP'
-      link: 'https://github.com/fariziadam11'
+    - name: 'Budget Financial'
+      link: 'https://github.com/fariziadam11/Budget-Financial'
       desc: 'Core developer and maintainer'
       icon: 'i-ri-tools-line'
 
   Part Time:
-    - name: '80&co'
-      link: 'https://github.com/80andCo'
+    - name: 'SENNA Company'
+      link: 'https://github.com/fariziadam11/SENNA-Company'
       desc: 'Freelance web developer'
       icon: 'i-ri-code-box-line'
 
